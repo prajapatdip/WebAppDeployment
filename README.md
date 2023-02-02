@@ -17,4 +17,5 @@ Requirements:
 
 Snapshots of the project are as below:
 
-
+![](images/Web%20Image.png)
+![](images/Database.png)
